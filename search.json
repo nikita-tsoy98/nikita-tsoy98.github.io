@@ -1,44 +1,9 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nikita Tsoy",
     "section": "",
-    "text": "I am a fourth-year PhD student at INSAIT, supervised by Nikola Konstantinov. My research focuses on trustworthy machine learning, particularly on strategic incentives in machine learning systems and shortcut learning.\nBefore INSAIT, I received an MA in Economics from NES and a BS in Physics from MIPT.\n\nPublications\n\nStrategic Incentives\n\nTsoy, N., Kirev, I., Rahimiyazdi, N., & Konstantinov, N. (2025). On the Impact of Performative Risk Minimization for Binary Random Variables. ICML.\nChakarov, D., Tsoy, N., Minchev, K., & Konstantinov, N. (2024). Incentivizing Truthful Collaboration in Heterogeneous Federated Learning. OPT Workshop.\nTsoy, N., Mihalkova, A., Todorova, T. N., & Konstantinov, N. (2024). Provable Mutual Benefits from Federated Learning in Privacy-Sensitive Domains. AISTATS.\nTsoy, N., & Konstantinov, N. (2023). Strategic Data Sharing between Competitors. NeurIPS.\n\n\n\nShortcut Learning\n\nTsoy, N., & Konstantinov, N. (2025). On Measuring Localization of Shortcuts in Deep Networks. SCSL Workshop.\nTsoy, N., & Konstantinov, N. (2024). Simplicity Bias of Two-Layer Networks beyond Linearly Separable Data. ICML.\n\n\n\nMiscellaneous\n\nCampbell, D., Brodeur, A., Dreber, A., Johannesson, M., Kopecky, J., Lusher, L., & Tsoy, N. (2024). The Robustness Reproducibility of the American Economic Review. I4R Discussion Paper Series."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Nikita Tsoy",
-    "section": "Education",
-    "text": "Education\nINSAIT, Sofia University | Sofia, Bulgaria PhD in Machine Learning | 2023 - present\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#strategic-incentives",
-    "href": "index.html#strategic-incentives",
-    "title": "Nikita Tsoy",
-    "section": "Strategic Incentives",
-    "text": "Strategic Incentives"
-  },
-  {
-    "objectID": "index.html#shortcut-learning",
-    "href": "index.html#shortcut-learning",
-    "title": "Nikita Tsoy",
-    "section": "Shortcut Learning",
-    "text": "Shortcut Learning"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Nikita Tsoy",
-    "section": "Publications",
-    "text": "Publications\n\nStrategic Incentives\n\n\nShortcut Learning"
+    "text": "I am a fourth-year PhD student at INSAIT, supervised by Nikola Konstantinov. My research focuses on trustworthy machine learning, particularly on strategic incentives in machine learning systems and shortcut learning.\nBefore INSAIT, I received an MA in Economics from NES and a BS in Physics from MIPT.\n\nPublications\n\nStrategic Incentives\n\nTsoy, N., Kirev, I., Rahimiyazdi, N., & Konstantinov, N. On the Impact of Performative Risk Minimization for Binary Random Variables. ICML. 2025.\nChakarov, D., Tsoy, N., Minchev, K., & Konstantinov, N. Incentivizing Truthful Collaboration in Heterogeneous Federated Learning. OPT Workshop. 2024.\nTsoy, N., Mihalkova, A., Todorova, T. N., & Konstantinov, N. Provable Mutual Benefits from Federated Learning in Privacy-Sensitive Domains. AISTATS. 2024.\nTsoy, N., & Konstantinov, N. Strategic Data Sharing between Competitors. NeurIPS. 2023.\n\n\n\nShortcut Learning\n\nTsoy, N., & Konstantinov, N. On Measuring Localization of Shortcuts in Deep Networks. SCSL Workshop. 2025.\nTsoy, N., & Konstantinov, N. Simplicity Bias of Two-Layer Networks beyond Linearly Separable Data. ICML. 2024.\n\n\n\nMiscellaneous\n\nCampbell, D., Brodeur, A., Dreber, A., Johannesson, M., Kopecky, J., Lusher, L., & Tsoy, N. The Robustness Reproducibility of the American Economic Review. I4R Discussion Paper Series. 2024."
   }
 ]
